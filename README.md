@@ -34,14 +34,6 @@ I code purely as a hobby, mostly working on **autonomous bots**, **LLM integrati
 
 [![Skills I want to learn](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,godot,flutter)](https://skillicons.dev)
 
-## ✨ Projects in Rotation
-
-- [x] **Hashi-AI-Discord**: Multi-provider LLM bot for Discord (Character Card V3, lorebooks, tool calling)
-- [x] **Fredoka**: Personality bot running on Honest+ with honestplus.py
-- [x] **honestplus.py**: Python wrapper for the Honest+ API
-- [ ] **orbit.py**: Python wrapper for the Orbit social network API
-- [ ] **MangaToLN**: Manga to light novel converter using LLM agents
-
 ---
 
 <div align="center">
