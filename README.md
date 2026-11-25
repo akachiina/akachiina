@@ -1,38 +1,39 @@
 <div align="center">
-<img height="180" src="https://media.tenor.com/TqwAsBzDC0EAAAAj/momone-chinoi.gif"/>
-</div>
-<div align="center">
+  <img height="180" src="./assets/yuukisakuna.gif"/>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1331731564698275841)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akachiina)
+  <h1>Hewwo, I'm Chiina! ฅ(ᵔ꒳ᵔマ.ᐟ</h1>
 
-</div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akachiina.akachiina&" />
-</div>
-<h1 align="center">Welcome to my GitHub! 〜⁠(⁠꒪⁠꒳⁠꒪⁠)⁠〜</h1>
+  <p><i>Adding more bugs to fix later.</i></p>
 
-## 🎀 About me
+  <a href="https://discord.com/users/1331731564698275841">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akachiina.akachiina"/>
+</div>
+
+## 🎀 A little about me
 
 ![Python](https://img.shields.io/badge/Focus-Python-blue)
 ![Discord Bots](https://img.shields.io/badge/Discord_Bots-5865F2)
 ![Hobby Dev](https://img.shields.io/badge/Dev-Hobbyist-purple)
 
-Hi! I'm **Chiina** (also known as Salada).
+Hi! I'm **Chiina** (aka Salada), a hobbyist developer who enjoys turning oddly specific ideas into software :P
 
-I code purely as a hobby, mostly working on **autonomous bots**, **LLM integrations**, tools for pretty specific niches, and a bunch of other stuff :P
+I've been fascinated by the concept of artificial intelligence since I was a kid. While I'm not a fan of AI slop, I think it's incredible how far this technology has come and what vibe coding has made possible :D
 
-- 🌸 Big fan of VTubers (shoutout to **Minato Aqua**, my beloved), Sonic the Hedgehog (Sonic CD is peak) and osu!!!
-- 💾 I've been obsessed with AI since I was a kid! Nowadays most of my projects involve LLMs
-- 🌱 Currently looking into **Tauri v2 app development**
+I started my programming journey at the age of 13, with **C++** as my first programming language!
+Though nowadays, I can't remember a thing... (ᵕ—ᴗ—)
 
-## 🥞 My Stack
+- ⚓ I also love **Minato Aqua**, and that will never change. <3
+- 💿 I'm a Sonic fan (Sonic CD 🔛🔝) and an osu! addict!
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,linux,arch,git,vscode,discord,bots)](https://skillicons.dev)
+## 🥞 My little toolbox
 
-## 💫 Want to Specialize More In
+[![Skills](https://skillicons.dev/icons?i=python,cpp,cs,linux,arch,bash,git,vscode,discord,bots)](https://skillicons.dev)
 
-[![Skills I want to learn](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,godot,flutter)](https://skillicons.dev)
+## 💫 Learning & exploring
+
+[![Learning](https://skillicons.dev/icons?i=html,css,js,godot,flutter)](https://skillicons.dev)
 
 ---
 
