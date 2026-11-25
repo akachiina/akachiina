@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="./assets/yuukisakuna.gif"/>
+  <img height="180" src="https://raw.githubusercontent.com/akachiina/akachiina/main/assets/yuukisakuna.gif"/>
 
   <h1>Hewwo, I'm Chiina! ฅ(ᵔ꒳ᵔマ.ᐟ</h1>
 
